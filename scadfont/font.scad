@@ -4,7 +4,8 @@ Copyright 2013, Michigan Technological University
 This design was developed as part of a project with
 the Michigan Tech Open Sustainability Technology Research Group
 http://www.appropedia.org/Category:MOST
-It is released under CC-BY-SA and was written primarily by Bas Wijnen and Gerald Anzalone.
+It was written primarily by Bas Wijnen and Gerald Anzalone. Licensed under
+GPL-3.0-or-later and CERN-OHL-S-2.0; see LICENSING.md.
 
 ***************************************************
 ******** TAKE CARE WHEN EDITING THIS FILE. ********
